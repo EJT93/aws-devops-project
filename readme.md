@@ -1,1 +1,4 @@
-# This is a repo for our new AWS DevOps project
+# docker flask application
+
+- This application is written in python
+- It shall be deployed on AWS
